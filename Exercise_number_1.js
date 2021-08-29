@@ -8,3 +8,4 @@ function sumy(num) {
 console.log(sumy(666));
 console.log(sumy(123));
 console.log(sumy(572));
+console.log(sumy(422));

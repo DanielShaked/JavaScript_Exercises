@@ -7,3 +7,4 @@ solutionA = (-b + Math.sqrt(b ** 2 - 4 * c * a)) / (2 * a);
 solutionB = (-b - Math.sqrt(b ** 2 - 4 * c * a)) / (2 * a);
 
 console.log(solutionA, solutionB);
+//

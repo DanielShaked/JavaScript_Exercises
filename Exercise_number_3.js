@@ -7,3 +7,4 @@ function absuSlove(num) {
 }
 
 console.log(absuSlove(-18));
+//
